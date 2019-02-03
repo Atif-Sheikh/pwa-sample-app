@@ -1,0 +1,17 @@
+
+{
+ 
+    "name": "PWA_Demo",
+    "short_name": "PWAYing",
+    "start_url": "/index.html",
+    "scope": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#3F51B5",
+    "discription": "keep running even no internet connection",
+    "dir": "ltr",
+    "lang": "en-US",
+    "orientation": "portrait-primary"
+    
+}
+
